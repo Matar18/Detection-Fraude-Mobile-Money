@@ -1,0 +1,12 @@
+{
+  "transactions": 6362620,
+  "fraudes": 8213,
+  "bloquees_regle_actuelle": 16,
+  "ap_test": 0.9735219456119826,
+  "transactions_par_jour_test": 179758.08,
+  "fraudes_par_jour_test": 258.24,
+  "regle_large_alertes_par_jour": 28587.839999999997,
+  "regle_large_montant_intercepte": 0.49303210336645015,
+  "regle_large_fraudes_detectees": 0.34014869888475835,
+  "iterations": 201
+}
